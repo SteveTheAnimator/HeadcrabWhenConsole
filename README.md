@@ -14,6 +14,7 @@ II's menu sends telemetry data every time you join a room, this includes your:
 - Room's playerlist
 - Room's player count
 - Gamemode
+
 There is no way to disable this as far as I'm aware in his menu. This is the backbone of his tracker afaik.
 
 # WARNING
