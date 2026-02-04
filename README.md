@@ -1,21 +1,14 @@
-# Consoleless
-A BepInEx mod that prevents [Console](https://github.com/iiDk-the-actual/Console) from sending telemetry data and accessing the internet (mostly).
+# HeadcrabWhenConsole
+A "Consoleless" fork that spawns a headcrab whenever an attempt to request any of the Console domains is made
 
-This currently blocks a majority of endpoints on iidk.online, but not the friend system.
+Just a fun little modification, nothing crazy.
 
-and yes this code is messy please fix it thank you
+You can modify what headcrab type you desire and if it should launch a canister at "Gorilla Tag\BepInEx\config\Rhosyn.HeadcrabWhenConsole.cfg"
 
-# Info
-II's menu sends telemetry data every time you join a room, this includes your:
-- Room name
-- Nickname
-- Player ID
-- Room visibility
-- Room's playerlist
-- Room's player count
-- Gamemode
-
-There is no way to disable this as far as I'm aware in his menu. This is the backbone of his tracker afaik.
+![GPhys Screenshot](https://raw.githubusercontent.com/SteveTheAnimator/HeadcrabWhenConsole/main/Screenshots/GPhys_Screenshot_2026-01-20_15-43-50.png)
 
 # WARNING
-Due to the nature of this mod, it ***WILL*** break some **(if not most)** features of mods that include console or that need to contact iidk's server data or the hamburbur servers. I am not responsible for any incidents that occur because of this.
+"Due to the nature of this mod, it ***WILL*** break some **(if not most)** features of mods that include console or that need to contact iidk's server data or the hamburbur servers. I am not responsible for any incidents that occur because of this."
+
+# DISCLAIMER
+This mod requires GPhys (an unreleased mod developed by me) to be installed, if you don't have acess, your out of luck and im sorry.
