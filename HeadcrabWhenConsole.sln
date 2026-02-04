@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadcrabWhenConsole", "HeadcrabWhenConsole.csproj", "{8D744662-0428-4783-8D35-334F6A0AB6D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D744662-0428-4783-8D35-334F6A0AB6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D744662-0428-4783-8D35-334F6A0AB6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D744662-0428-4783-8D35-334F6A0AB6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D744662-0428-4783-8D35-334F6A0AB6D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BE6A842-BBFC-41BA-83E2-4AD1A141F3C2}
+	EndGlobalSection
+EndGlobal
